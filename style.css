@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: rgb(229, 218, 240);
+
+
+
+}
+
+
+.doda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.ota {
+    background-color: white;
+    width: 1240px;
+    height: 1024px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.bola1 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    border: 1px solid black;
+    border-radius: 8px;
+    gap: 5px;
+    display: flex;
+    padding: 8px;
+
+}
+
+.bola {
+    display: flex;
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 8px;
+    width: 240px;
+    height: 240px;
+    gap: 5px;
+}
+
+.nevara {
+    width: 50px;
+    height: 50px;
+
+    border-radius: 8px;
+    border: 1px solid black;
+    background: #F7941F;
+
+
+
+
+}
+
+.bola2 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    gap: 5px;
+    display: block;
+
+
+
+}
+
+.bola3 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding-bottom: 120px;
+  
+
+}
+
+
+
+.bola4 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    justify-content: space-between;
+
+
+}
+
+.bola5 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 5px;
+}
+
+.bola6 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    justify-content: end;
+    gap: 5px;
+}
+
+.bola7 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    justify-content: center;
+}
+
+.bola8 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    justify-content: space-between;
+
+}
+
+.bola9 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    
+}
+
+.bola10 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    align-items: end;
+}
+
+.bola11 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    align-items: center;
+}
+
+.bola12 {
+    background-color: #995DB5;
+    width: 240px;
+    height: 240px;
+    justify-content: space-around;
+}
+
+.nevara2 {
+    margin-bottom: 5px;
+}
